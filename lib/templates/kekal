@@ -1,0 +1,11 @@
+import React from "react";
+import { useStyles } from "./useStyles";
+
+const <<<cmpname>>>: React.FC<any> = () => {
+const classes = useStyles();
+  return (
+    <div className={classes.container}><<<cmpname>>> Working</div>
+  );
+};
+
+export default <<<cmpname>>>;
